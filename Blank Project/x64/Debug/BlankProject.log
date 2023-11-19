@@ -1,0 +1,9 @@
+﻿  BlankProject.cpp
+H:\Desktop\c++\coursework\nclgl\HeightMap.h(13,120): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+nclgl.lib(Keyboard.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(MeshMaterial.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(glad.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Mouse.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(GameTimer.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Matrix2.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+  BlankProject.vcxproj -> H:\Desktop\c++\coursework\x64\Debug\Assignment.exe

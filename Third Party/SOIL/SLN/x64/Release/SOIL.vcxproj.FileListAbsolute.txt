@@ -1,0 +1,2 @@
+C:\Uni\MSc Tests\Shi\Third Party\SOIL\SLN\x64\Release\SOIL.lib
+E:\CSC8502 2022\Third Party\SOIL\SLN\x64\Release\SOIL.lib

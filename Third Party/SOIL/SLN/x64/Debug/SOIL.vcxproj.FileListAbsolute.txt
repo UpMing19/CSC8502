@@ -1,0 +1,3 @@
+C:\Uni\MSc Tests\Shi\Third Party\SOIL\SLN\x64\Debug\SOIL.lib
+C:\Uni\MSc Tests\Shi\Third Party\SOIL\SLN\x64\Debug\SOIL.pdb
+E:\CSC8502 2022\Third Party\SOIL\SLN\x64\Debug\SOIL.lib

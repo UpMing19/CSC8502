@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SOIL.c
+E:\CSC8502 2022\Third Party\SOIL\Simple OpenGL Image Library\src\SOIL.c(1720,36): warning C4018: '<=': signed/unsigned mismatch
+E:\CSC8502 2022\Third Party\SOIL\Simple OpenGL Image Library\src\SOIL.c(1730,19): warning C4018: '<': signed/unsigned mismatch
+E:\CSC8502 2022\Third Party\SOIL\Simple OpenGL Image Library\src\SOIL.c(1868,52): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\CSC8502 2022\Third Party\SOIL\Simple OpenGL Image Library\src\SOIL.c(1842,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SOIL.vcxproj -> E:\CSC8502 2022\Third Party\SOIL\SLN\x64\Debug\SOIL.lib

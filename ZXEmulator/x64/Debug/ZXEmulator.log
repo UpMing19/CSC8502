@@ -1,0 +1,6 @@
+﻿  LINK : H:\Desktop\c++\coursework\x64\Debug\ZXEmulator.exe not found or not built by the last incremental link; performing full link
+nclgl.lib(glad.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Keyboard.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Mouse.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(GameTimer.obj) : warning LNK4204: '' is missing debugging information for referencing module; linking object as if no debug info
+  ZXEmulator.vcxproj -> H:\Desktop\c++\coursework\x64\Debug\ZXEmulator.exe
